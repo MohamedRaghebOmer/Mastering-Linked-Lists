@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Operations - Delete First Node/Operations - Delete First Node.vcxproj" Id="b6e63317-5b8d-43ea-b24b-af2fb66256c8" />
+  <Project Path="../Operations - Delete Last Node/Operations - Delete Last Node.vcxproj" Id="0db9c2ad-e649-463d-b032-621a570d82ae" />
+  <Project Path="../Operations - Delete Node/Operations - Delete Node.vcxproj" Id="7186de92-b9e3-42f8-b093-2c9b891604ad" />
+  <Project Path="../Operations - Find/Operations - Find.vcxproj" Id="d2a67239-58a3-4a6e-9795-d691e622f190" />
+  <Project Path="../Operations - Insert After/Operations - Insert After.vcxproj" Id="2f77dabf-67ad-47fd-a98c-e4643dcde555" />
+  <Project Path="../Operations - Insert At Beginning/Operations - Insert At Beginning.vcxproj" Id="c78f7d12-a77c-4c3c-b6f8-90dc3e2c2786" />
+  <Project Path="../Operations - Insert At End/Operations - Insert At End.vcxproj" Id="1bbfc55a-67db-4f3b-ad26-da84f10e7adc" />
+  <Project Path="Singly Linked List Implementation.vcxproj" Id="88a0dda1-d073-41b8-aeec-974406dfdd6a" />
+</Solution>

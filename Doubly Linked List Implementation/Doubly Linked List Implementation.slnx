@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Map/Map.vcxproj" />
+  <Project Path="../Operations - Delete First Node (Doubly linked list)/Operations - Delete First Node (Doubly linked list).vcxproj" />
+  <Project Path="../Operations - Delete Last Node (Doubly Linked list)/Operations - Delete Last Node (Doubly Linked list).vcxproj" />
+  <Project Path="../Operations - Delete Node (Doubly liked list)/Operations - Delete Node (Doubly liked list).vcxproj" />
+  <Project Path="../Operations - Find Node/Operations - Find Node.vcxproj" />
+  <Project Path="../Operations - Insert After (Doubly linked list)/Operations - Insert After (Doubly linked list).vcxproj" />
+  <Project Path="../Operations - Insert At Beginning (Doubly linked list)/Operations - Insert At Beginning (Doubly linked list).vcxproj" />
+  <Project Path="../Operations - Insert at End (Doubly linked list)/Operations - Insert at End (Doubly linked list).vcxproj" />
+  <Project Path="Doubly Linked List Implementation.vcxproj" />
+</Solution>
