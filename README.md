@@ -6,7 +6,7 @@ A comprehensive and well-structured repository dedicated to the implementation a
 
 ## 📂 Repository Contents
 
-### 1. Singly Linked List
+### 1. Singly Linked List 
 Detailed implementations covering fundamental operations:
 * **Insertion:** At Beginning, At End, and Insert After a specific node.
 * **Deletion:** Delete First Node, Delete Last Node, and Delete a specific Node.
