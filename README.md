@@ -1,6 +1,6 @@
-# Linked List Practice 🚀
+# Mastering-Linked-Lists-CPP 🚀
 
-A comprehensive educational repository containing practical implementations of Data Structures in **C++**, with a primary focus on Linked Lists and their core operations.
+A comprehensive and well-structured repository dedicated to the implementation and mastery of **Linked Lists** using C++. This project covers everything from basic node manipulation to advanced operations in both Singly and Doubly Linked Lists, along with practical applications of the Standard Template Library (STL).
 
 ---
 
@@ -39,7 +39,7 @@ Advanced implementations handling both `Next` and `Previous` pointers:
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Linked-List-Practice.git](https://github.com/YOUR_USERNAME/Linked-List-Practice.git)
+git clone [https://github.com/YOUR_USERNAME/Linked-List-Practice.git](https://github.com/YOUR_USERNAME/Mastering-Linked-Lists-CPP.git)
 ```
 
 2. **Navigate to a specific folder:**
