@@ -4,7 +4,7 @@ A comprehensive and well-structured repository dedicated to the implementation a
 
 ---
  
-## 📂 Repository Contents
+## 📂 Repository Contents 
 
 ### 1. Singly Linked List 
 Detailed implementations covering fundamental operations:
